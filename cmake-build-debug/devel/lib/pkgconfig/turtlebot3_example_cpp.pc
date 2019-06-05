@@ -1,0 +1,8 @@
+prefix=/home/tian/catkin_ws_tian/src/turtlebot3/turtlebot3_example_cpp/cmake-build-debug/devel
+
+Name: turtlebot3_example_cpp
+Description: Description of turtlebot3_example_cpp
+Version: 0.0.0
+Cflags: -I/home/tian/catkin_ws_tian/src/turtlebot3/turtlebot3_example_cpp/cmake-build-debug/devel/include
+Libs: -L/home/tian/catkin_ws_tian/src/turtlebot3/turtlebot3_example_cpp/cmake-build-debug/devel/lib 
+Requires: actionlib actionlib_msgs geometry_msgs message_runtime nav_msgs roscpp rospy sensor_msgs std_msgs turtlebot3_msgs visualization_msgs
